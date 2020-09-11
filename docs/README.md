@@ -1,10 +1,6 @@
 # WSL and VSCode
 
-I want to share a couple of time-saving tools with other students at UWB for CSS 430 and other CSS courses at UWB.
-
-
-
-CSS342 and CSS343 require compiling and running C++ in a Linux Environment.
+I want to share a couple of time-saving tools with other students at UWB for CSS courses that require deployment on linux or a remote machine (like CSS342, CSS343, CSS430... etc.).
 
 
 
@@ -22,7 +18,7 @@ VSCode is modularized so you can use it for almost everything. To write C/C++, y
 
 
 
-I recommend VSCode because it allows [remote development](https://code.visualstudio.com/docs/remote/ssh). You can edit code on a remote machine (Like UWB's Linux lab) and it will feel like you are editing files on you personal computer. VSCode is great and saves a lot of time. You can use the remote development for [WSL](#Windows Subsystem for Linux) too.
+I recommend VSCode because it allows [remote development](https://code.visualstudio.com/docs/remote/ssh). You can edit code on a remote machine (Like UWB's Linux lab) and it will feel like you are editing files on you personal computer. VSCode is saves a lot of time. You can use the remote development for Windows Subsystem for Linux too.
 
 
 
@@ -32,7 +28,7 @@ Windows Subsystem for Linux (**WSL**) allows developers to run a Linux environme
 
 
 
-So you can compile and execute your C/C++ on your personal computer using WSL instead of relying on the UWB Linux lab. This can save you the trouble of using putty and WinSCP to SSH and transfer files to the Linux lab to test it.
+So, you can compile and execute your C++ code on your personal computer using WSL instead of relying on the UWB Linux lab. 
 
 
 
@@ -52,11 +48,11 @@ You can use VSCode without WSL. For example, you can setup a remote environment 
 
 
 
-Similarly, You can use WSL without VSCode. You can edit your code using your favorite editor and just test it with WSL before you submit it. For example, you can use [Visual Studio IDE](https://visualstudio.microsoft.com/) (not the same as VSCode) while developing and for your final tests, you can then compile and run with WSL.
+Similarly, You can use WSL without VSCode. You can edit your code using your favorite editor and just test it with WSL before you submit it. For example, you can use [Visual Studio IDE](https://visualstudio.microsoft.com/) (not the same as VSCode) while developing and for your final tests, you can then compile and run your code with WSL.
 
 
 
-I just wanted to share these fancy tools that can save a lot of time.
+I just wanted to share these fancy tools which save a lot of time.
 
 
 
