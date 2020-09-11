@@ -18,7 +18,7 @@ VSCode is modularized so you can use it for almost everything. To write C/C++, y
 
 
 
-I recommend VSCode because it allows [remote development](https://code.visualstudio.com/docs/remote/ssh). You can edit code on a remote machine (Like UWB's Linux lab) and it will feel like you are editing files on you personal computer. VSCode saves is a great time-saver. You can use the remote development for Windows Subsystem for Linux too.
+I recommend VSCode because it allows [remote development](https://code.visualstudio.com/docs/remote/ssh). You can edit code on a remote machine (Like UWB's Linux lab) and it will feel like you are editing files on you personal computer. VSCode is a great time-saver. You can use the remote development for Windows Subsystem for Linux too.
 
 
 
