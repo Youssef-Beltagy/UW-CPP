@@ -4,7 +4,7 @@ I want to share a couple of time-saving tools with other students at UWB for CSS
 
 
 
-I'm recommending a code-editor that makes development on a remote environment (like the Linux Labs) easy. I'm also recommending an alternative to the Linux Lab if you don't have access to it or if you develop your code on your personal computer. You can use both at the same time.
+I'm recommending a code-editor that makes development on a remote environment (like the Linux Labs) easy. I'm also recommending an alternative to the Linux Lab if you don't have access to it.
 
 
 
@@ -18,7 +18,7 @@ VSCode is modularized so you can use it for almost everything. To write C/C++, y
 
 
 
-I recommend VSCode because it allows [remote development](https://code.visualstudio.com/docs/remote/ssh). You can edit code on a remote machine (Like UWB's Linux lab) and it will feel like you are editing files on you personal computer. VSCode is saves a lot of time. You can use the remote development for Windows Subsystem for Linux too.
+I recommend VSCode because it allows [remote development](https://code.visualstudio.com/docs/remote/ssh). You can edit code on a remote machine (Like UWB's Linux lab) and it will feel like you are editing files on you personal computer. VSCode saves is a great time-saver. You can use the remote development for Windows Subsystem for Linux too.
 
 
 
@@ -38,7 +38,7 @@ So, you can compile and execute your C++ code on your personal computer using WS
 
 
 
-I wrote a simple program that tests the basic needs of CSS courses at UWB so you can test your WSL environment.
+I wrote a simple program that tests the basic needs of CSS courses at UWB so you can test your WSL environment. You can download it as a zip file or go to the github repository from the top.
 
 
 

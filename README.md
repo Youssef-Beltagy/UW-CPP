@@ -29,6 +29,8 @@ sudo apt install build-essential;
 
 ```
 
+After you download the program, make sure to navigate to the program directory.
+
 Build the program with:
 
 ```
